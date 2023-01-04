@@ -1,4 +1,4 @@
-# DataGame
+# NoSQL Data Structure and Cap Theorem
 Repository focused in explain structure of data like, theorem CAP and Scalability
 
 **NoSQL** databases are a class of persistence technology that provide a new storage mechanism that goes hand in hand with normalization and relational databases. Like any other database, it has the same objectives: inserting, updating, retrieving and deleting information, however, with new modeling concepts and storage structure.
